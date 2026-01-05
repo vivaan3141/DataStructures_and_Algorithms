@@ -1,5 +1,4 @@
-# 2025-2026
-#Data Structures and Algorithms
+# 2025-2026 Data Structures and Algorithms
 
 Data Structures:
 - 2D Arrays
